@@ -1,0 +1,10 @@
+#include "bancoController.hpp"
+#include <iostream>
+int main() {
+  
+   Controlador controlador;
+    controlador.executar();
+  
+    return 0;
+}
+
